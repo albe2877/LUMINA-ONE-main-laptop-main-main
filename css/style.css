@@ -190,6 +190,7 @@ button {
     padding-top: 25px;
     line-height: 1.6;
     font-family: vazirmatn, sans-serif;
+    font-weight:lighter;
 }
 
 .hero-text h1 span {
@@ -469,13 +470,15 @@ button {
     justify-content: center;
     gap: 20px;
     flex-direction: column;
-    font-size: 18px;
+    font-size: 20px;
     background-color:#fcfdfc;
     padding: 40px;
     border-radius: 12%;
     min-height: 250px;
     width: 220px;
     max-width: 100%;
+    font-family: vazirmatn, sans-serif;
+    font-weight: lighter;
 
 }
 
@@ -910,7 +913,7 @@ border-radius: 25px;
 }
 
 .nyhedsbrev-text h2{
-    font-size: 40px;
+    font-size: 38px;
     margin-bottom: 15px;
     font-family: Vazirmatn, sans-serif;
     font-weight: lighter;
@@ -922,7 +925,7 @@ border-radius: 25px;
 }
 
 .nyhedsbrev-text p {
-    font-size: 26px;
+    font-size: 24px;
     line-height: 1.5;
     font-family: Vazirmatn, sans-serif;
     font-weight: lighter;
@@ -934,7 +937,7 @@ border-radius: 25px;
     border-radius: 50px;
 
     padding: 18px 65px;
-    font-size: 30px;
+    font-size: 24px;
 
     cursor: pointer;
 }
