@@ -5,7 +5,7 @@
     --backgroundcolor: #fcfdfc;
     --textcolor: black;
     --textcolor2: white;
-    --textcolorGradient: rgba(255, 255, 255, 0.70);
+    --textcolorGradient: rgba(255, 255, 255, 0.55);
     --textcolorGradient2: rgba(0, 0, 0, 0.50);
     --produktfarve1: #CEC5D3;
     --produktfarve2: #D9A8B2;
@@ -616,6 +616,7 @@ button {
 .farvelinjer {
     font-family: futura, sans-serif;
     font-weight: lighter;
+    color: var(--textcolorGradient2);
     border-top: 1px solid #222;
     border-bottom: 1px solid #222;
     padding: 20px 0;
